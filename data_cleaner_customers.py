@@ -1,3 +1,5 @@
+import pandas as pd
+
 #Read csv file
 customers_data = pd.read_csv('Data/03_Library SystemCustomers.csv')
 
